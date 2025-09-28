@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d6170c8-59f2-4523-a5e4-4b2dc5f70a03" name="Changes" comment="html">
-      <change afterPath="$PROJECT_DIR$/src/styles/components/button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/components/field.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/components/todo-item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/components/todo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/globals.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/variables.css" afterDir="false" />
+    <list default="true" id="6d6170c8-59f2-4523-a5e4-4b2dc5f70a03" name="Changes" comment="css">
+      <change afterPath="$PROJECT_DIR$/src/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/components/field.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/components/field.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/components/todo-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/components/todo-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/components/todo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/components/todo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -58,22 +57,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.idesettings.emmet.css",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.idesettings.emmet.css&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -89,7 +88,9 @@
       <option name="presentableId" value="Default" />
       <updated>1758979353502</updated>
       <workItem from="1758979355850" duration="1332000" />
-      <workItem from="1759066409700" duration="5368000" />
+      <workItem from="1759066409700" duration="10881000" />
+      <workItem from="1759085442764" duration="161000" />
+      <workItem from="1759085661616" duration="305000" />
     </task>
     <task id="LOCAL-00001" summary="html">
       <option name="closed" value="true" />
@@ -99,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758979466573</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="css">
+      <option name="closed" value="true" />
+      <created>1759073030801</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759073030801</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +127,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="html" />
-    <option name="LAST_COMMIT_MESSAGE" value="html" />
+    <MESSAGE value="css" />
+    <option name="LAST_COMMIT_MESSAGE" value="css" />
   </component>
 </project>
