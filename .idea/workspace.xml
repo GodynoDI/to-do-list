@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d6170c8-59f2-4523-a5e4-4b2dc5f70a03" name="Changes" comment="css">
-      <change afterPath="$PROJECT_DIR$/src/script.js" afterDir="false" />
+    <list default="true" id="6d6170c8-59f2-4523-a5e4-4b2dc5f70a03" name="Changes" comment="js + minor fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/components/field.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/components/field.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/components/todo-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/components/todo-item.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/components/todo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/components/todo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +84,9 @@
       <workItem from="1758979355850" duration="1332000" />
       <workItem from="1759066409700" duration="10881000" />
       <workItem from="1759085442764" duration="161000" />
-      <workItem from="1759085661616" duration="305000" />
+      <workItem from="1759085661616" duration="981000" />
+      <workItem from="1759330955974" duration="548000" />
+      <workItem from="1759331592984" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="html">
       <option name="closed" value="true" />
@@ -108,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759073030801</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="js + minor fix">
+      <option name="closed" value="true" />
+      <created>1759086291357</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759086291357</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +132,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="html" />
     <MESSAGE value="css" />
-    <option name="LAST_COMMIT_MESSAGE" value="css" />
+    <MESSAGE value="js + minor fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="js + minor fix" />
   </component>
 </project>
